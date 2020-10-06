@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.stratosphere
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, docker, hibernate-jpa, http-client, java, java-application, jdbc-hikari, jib, junit, kubernetes, log4j2, management, maven, openapi, postgres, properties, reactor, readme, security, security-annotations, testcontainers, tomcat-server]
